@@ -7,6 +7,14 @@ YuzUP is a small GUI app to update the nintendo switch emulator YUZU to the late
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/yPDCgPZ/yuzup-02.png" alt="yuzup-02" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'></a><br />
 
 
+## Prerequisites
+
+Here are the dependencies needed in order to make GOverlay run:
+
+ - [**`xterm`**](https://www.archlinux.org/packages/?name=xterm) - 
+ - [**`wget`**](https://www.archlinux.org/packages/extra/x86_64/wget/) -
+
+
 ## Tarball
 
 1. Download the latest tarball from [Releases](https://github.com/benjamimgois/yuzup/releases).
